@@ -25,7 +25,7 @@
     "autoprefixer-loader": "^1.2.0",
     "babel-core": "^4.7.16",
     "babel-eslint": "^2.0.2",
-    "babel-loader": "^4.2.0",
+    "babel-loader": "^9.0.0",
     "browser-sync": "^2.5.0",
     "css-loader": "^0.28.0",
     "del": "^7.0.0",
