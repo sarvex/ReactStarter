@@ -55,7 +55,7 @@
     "less": "^2.4.0",
     "less-loader": "^2.2.0",
     "minimist": "^1.1.1",
-    "protractor": "^2.0.0",
+    "protractor": "^7.0.0",
     "psi": "^1.0.6",
     "react-tools": "^0.13.1",
     "run-sequence": "^1.0.2",
