@@ -19,7 +19,7 @@
     "pug": "3.0.2",
     "lodash": "3.6.0",
     "react": "0.13.1",
-    "superagent": "1.1.0"
+    "superagent": "3.7.0"
   },
   "devDependencies": {
     "autoprefixer-loader": "^1.2.0",
