@@ -31,7 +31,7 @@
     "del": "^7.0.0",
     "eslint": "^0.24.0",
     "eslint-loader": "^4.0.0",
-    "gulp": "^3.8.11",
+    "gulp": "^4.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-cache": "^1.0.0",
     "gulp-changed": "^4.0.0",
