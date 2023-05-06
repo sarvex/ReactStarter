@@ -51,7 +51,7 @@
     "gulp-size": "^4.0.0",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.4",
-    "jest-cli": "^0.10.0",
+    "jest-cli": "^29.0.0",
     "less": "^4.0.0",
     "less-loader": "^11.0.0",
     "minimist": "^1.1.1",
