@@ -57,7 +57,7 @@
     "minimist": "1.2.8",
     "protractor": "7.0.0",
     "psi": "4.1.0",
-    "react-tools": "^0.13.1",
+    "react-tools": "0.13.3",
     "run-sequence": "2.2.1",
     "style-loader": "3.3.3",
     "url-loader": "4.1.1",
