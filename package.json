@@ -61,7 +61,7 @@
     "run-sequence": "2.2.1",
     "style-loader": "4.0.0",
     "url-loader": "4.1.1",
-    "webpack": "5.99.9",
+    "webpack": "5.100.1",
     "webpack-dev-server": "5.2.1"
   },
   "jest": {
